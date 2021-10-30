@@ -1,0 +1,1 @@
+Ini merupakan repo contoh untuk belajar miniclass di WRI.
